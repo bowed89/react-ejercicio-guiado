@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "cargo": "Desarrollador",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "María",
+      "apellido": "González",
+      "cargo": "Diseñadora",
+      "activo": false
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos",
+      "apellido": "Rodríguez",
+      "cargo": "Gerente de Proyecto",
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombre": "Ana",
+      "apellido": "Fernández",
+      "cargo": "Analista de Datos",
+      "activo": false
+    },
+    {
+      "id": 5,
+      "nombre": "Luis",
+      "apellido": "Martínez",
+      "cargo": "Tester",
+      "activo": true
+    },
+    {
+      "id": 6,
+      "nombre": "Sofía",
+      "apellido": "López",
+      "cargo": "Soporte Técnico",
+      "activo": false
+    }
+  ]
+  
